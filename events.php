@@ -74,7 +74,7 @@ if(isset($_POST['upload']))
         <img class="preloader" src="images/loader.gif" alt="">
     </div><!-- end loader -->
     <!-- END LOADER -->
-
+<p>one two three four</p>
     <div id="wrapper">
         <!-- BEGIN # MODAL LOGIN -->
         <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
